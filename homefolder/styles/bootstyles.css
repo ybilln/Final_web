@@ -1,6 +1,6 @@
 .posiStyle{
     position: absolute;
-    border: 5px solid white;
+    border: 5px solid papayawhip;
     padding: 5px;
 }
 
@@ -23,7 +23,7 @@
     top: 140px;
     left: 190px;
     bottom: 100px;
-    width: 1220px;
+    width: 1000px;
     overflow: scroll;
 
 }
@@ -45,7 +45,7 @@
     font-style: italic;}
 
 body{
-    background-color: white;
+    background-color: papayawhip;
     text-align: left;}
 
 #pf{
@@ -85,4 +85,11 @@ a:visited{
     padding: 5px;
     margin: 5px;
     height: 150px; 
+    }
+
+
+    .yyy{
+        font-size: medium;
+        color: darksalmon;
+        text-align: center;
     }
