@@ -1,0 +1,88 @@
+.posiStyle{
+    position: absolute;
+    border: 5px solid white;
+    padding: 5px;
+}
+
+.titlePosi{
+    left: 10px;
+    right: 10px;
+    top: 10px;
+    height: 100px;
+}
+
+.navPosi{
+    top: 140px;
+    left: 10px;
+    bottom: 100px;
+    width: 150px;
+
+}
+
+.conPosi{
+    top: 140px;
+    left: 190px;
+    bottom: 100px;
+    width: 1220px;
+    overflow: scroll;
+
+}
+
+
+
+.ftPosi{
+    bottom: 10px;
+    left: 10px;
+    right: 10px;
+    height: 60px;
+}
+
+.p{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(180, 20, 20);
+    text-align: center;
+    font-style: italic;}
+
+body{
+    background-color: white;
+    text-align: left;}
+
+#pf{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+    }
+
+a {
+    color: rgb(173, 20, 132);
+    font-style: italic;
+    font-size: medium;
+    font: bold;
+    
+
+}
+
+a:hover{
+
+    font-size: 16px;
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+    }
+
+a:visited{
+    color: coral;}
+
+.highlighted{
+       font-size: 24px;
+       color: dodgerblue;}
+
+.nav{
+    position:absolute;
+    top:100px;
+    border: 5px solid black;
+    padding: 5px;
+    margin: 5px;
+    height: 150px; 
+    }

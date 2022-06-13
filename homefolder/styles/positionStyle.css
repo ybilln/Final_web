@@ -1,0 +1,44 @@
+
+.posiStyle{
+    position: absolute;
+    border: 5px solid white;
+    padding: 5px;
+}
+
+.titlePosi{
+    left: 10px;
+    right: 10px;
+    top: 10px;
+    height: 100px;
+}
+
+.navPosi{
+    top: 140px;
+    left: 10px;
+    bottom: 100px;
+    width: 150px;
+
+}
+
+.conPosi{
+    top: 140px;
+    left: 190px;
+    bottom: 100px;
+    width: 930px;
+    overflow: scroll;
+
+}
+
+.imagesPosi{
+    top: 140px;
+    bottom: 100px;
+    right: 10px;
+    width: 260px;
+}
+
+.ftPosi{
+    bottom: 10px;
+    left: 10px;
+    right: 10px;
+    height: 60px;
+}
